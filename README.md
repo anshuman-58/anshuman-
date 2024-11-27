@@ -1,4 +1,4 @@
 # anshuman-
 this is my fisrt repository
 <br>
-Author- Anshuman Pandey
+Author- Anshuman Pandey ji
